@@ -1,3 +1,5 @@
+### Fork WIP: Edit chart to use only community components
+
 = Confluent Platform Helm Charts
 :icons: font
 :toc: auto
